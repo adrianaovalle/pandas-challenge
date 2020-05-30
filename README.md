@@ -272,7 +272,6 @@
     </table>
 
   <h3>Most Profitable Items</h3>
-
  <table>
       <tr>
         <th> Item ID  </th>
@@ -316,5 +315,4 @@
         <td> $4.35  </td>
         <td> $34.80</td>
       </tr>
-
     </table>
