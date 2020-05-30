@@ -229,6 +229,7 @@
  <table>
       <tr>
         <th> Item ID  </th>
+        <th> Item Name  </th>
         <th> Purchase Count </th>
         <th> Item Price </th>
         <th> Total Purchase Value </th>
