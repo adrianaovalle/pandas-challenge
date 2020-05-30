@@ -270,3 +270,51 @@
          <td> $31.77</td>
       </tr>
     </table>
+
+  <h3>Most Profitable Items</h3>
+
+ <table>
+      <tr>
+        <th> Item ID  </th>
+        <th> Item Name  </th>
+        <th> Purchase Count </th>
+        <th> Item Price </th>
+        <th> Total Purchase Value </th>
+       </tr>
+      <tr>
+        <td> 92 </td>
+        <td> Final Critic </td>
+        <td> 13 </td>
+        <td> $4.61</td>
+         <td> $59.99</td>
+      </tr>
+      <tr>
+        <td> 178 </td>
+        <td> Oathbreaker, Last Hope of the Breaking Storm </td>
+        <td> 12 </td>
+        <td> $4.23</td>
+         <td> $50.76</td>
+      </tr>
+              <tr>
+        <td> 82 </td>
+        <td> Nirvana </td>
+        <td> 9 </td>
+        <td> $4.90</td>
+         <td> $44.10</td>
+      </tr>
+          <tr>
+        <td> 145 </td>
+        <td> Fiery Glass Crusader </td>
+        <td> 9 </td>
+        <td> $4.58</td>
+         <td> $41.22</td>
+      </tr>
+              <tr>
+        <td> 103/td>
+        <td> Singed Scalpel </td>
+        <td> 8 /td>
+        <td> $4.35  </td>
+        <td> $34.80</td>
+      </tr>
+
+    </table>
