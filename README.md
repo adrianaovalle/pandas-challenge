@@ -223,4 +223,7 @@
         <td> $13.10</td>
       </tr> 
     </table>
- <img src="https://images.pexels.com/photos/2526878/pexels-photo-2526878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width="30%"/>
+  
+  <h3>Most Popular Items</h3>
+
+ <img src="https://drive.google.com/drive/folders/1duMhWbE4lucVIyhMQNjzfS719Zt6FOsc" width="50%"/>
