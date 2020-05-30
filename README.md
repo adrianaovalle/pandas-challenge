@@ -310,9 +310,9 @@
          <td> $41.22</td>
       </tr>
               <tr>
-        <td> 103/td>
+        <td> 103</td>
         <td> Singed Scalpel </td>
-        <td> 8 /td>
+        <td> 8 </td>
         <td> $4.35  </td>
         <td> $34.80</td>
       </tr>
