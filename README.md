@@ -22,7 +22,7 @@
      <li>Total Revenue: $2,379.77</li>
 </ul>
 <h3>Gender Demographics</h3>
- <p> Males buy more add-ins for games than females or Other/Non-Disclosed Gender. </p>
+ <p> Males buy more add-ins for games than females or Other/Non-Disclosed Gender. Below, the count and percentage per gender.</p>
 
 <ul>
      <li>Male: 484, 84.03%</li>
