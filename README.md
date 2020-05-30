@@ -226,4 +226,46 @@
   
   <h3>Most Popular Items</h3>
 
- <img src="https://drive.google.com/drive/folders/1duMhWbE4lucVIyhMQNjzfS719Zt6FOsc" width="50%"/>
+ <table>
+      <tr>
+        <th> Item ID  </th>
+        <th> Purchase Count </th>
+        <th> Item Price </th>
+        <th> Total Purchase Value </th>
+       </tr>
+      <tr>
+        <td> 92 </td>
+        <td> Final Critic </td>
+        <td> 13 </td>
+        <td> $4.61</td>
+         <td> $59.99</td>
+      </tr>
+      <tr>
+        <td> 178 </td>
+        <td> Oathbreaker, Last Hope of the Breaking Storm </td>
+        <td> 12 </td>
+        <td> $4.23</td>
+         <td> $50.76</td>
+      </tr>
+          <tr>
+        <td> 145 </td>
+        <td> Fiery Glass Crusader </td>
+        <td> 9 </td>
+        <td> $4.58</td>
+         <td> $41.22</td>
+      </tr>
+              <tr>
+        <td> 132 </td>
+        <td> Persuasion </td>
+        <td> 9 </td>
+        <td> $3.22</td>
+         <td> $28.99</td>
+      </tr>
+                  <tr>
+        <td> 108 </td>
+        <td> Extraction, Quickblade Of Trembling Hands </td>
+        <td> 9 </td>
+        <td> $3.53</td>
+         <td> $31.77</td>
+      </tr>
+    </table>
