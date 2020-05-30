@@ -56,3 +56,52 @@
         <td> $4.56 </td>
       </tr>
     </table>
+
+<h3>Age Demographics</h3>
+  <table>
+      <tr>
+        <th> Age Range   </th>
+        <th> Total Count </th>
+        <th> Percentage of Players</th>
+      </tr>
+      <tr>
+        <td> <10</td>
+        <td> 17 </td>
+        <td> 2.95%</td>
+      </tr>
+      <tr>
+        <td> 10-14 </td>
+        <td> 22 </td>
+        <td> 3.82%</td>
+      </tr>
+      <tr>
+        <td> 15-19 </td>
+        <td> 107 </td>
+        <td> 18.58%</td>
+      </tr>
+          <tr>
+        <td> 20-24 </td>
+        <td> 258 </td>
+        <td> 44.79%</td>
+      </tr>
+              <tr>
+        <td> 25-29 </td>
+        <td> 77 </td>
+        <td> 13.37%</td>
+      </tr>
+                  <tr>
+        <td> 30-34 </td>
+        <td> 52 </td>
+        <td> 9.03%</td>
+                  </tr>
+                   <tr>
+        <td> 35-39 </td>
+        <td> 31 </td>
+        <td> 5.38%</td>
+      </tr>
+                       <tr>
+        <td> 40+ </td>
+        <td> 12 </td>
+        <td> 2.08%</td>
+      </tr>
+    </table>
