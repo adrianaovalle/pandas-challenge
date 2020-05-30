@@ -184,7 +184,7 @@
       </tr>
     </table>
     
-    <h3>Top Spenders</h3>
+ <h3>Top Spenders</h3>
  <table>
       <tr>
         <th> Name  </th>
