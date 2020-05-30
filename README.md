@@ -3,9 +3,9 @@
 <h2>Heroes of Pymoly</h2>
     <p> This is the data analysis for a recent game Heroes of Pymoli. The gaming company would like to understand meaningful insights about purchasing history of add-ins to their free-to-play game. The following are the main conclusions from the analysis:</p> 
     <ul>
-     <li>84% of the buying gamers are male. </li>
+     <li>From the 576 players, 84% are male. </li>
      <li>44.8% of gamers are between the ages of 20 to 24.</li>
-     <li>The mots popular and profitable add-in is Final Critic.</li>
+     <li>The most popular and profitable add-in is Final Critic.</li>
 </ul>
 
 <h3>Player Count</h3>
