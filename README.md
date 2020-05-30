@@ -59,7 +59,7 @@
     </table>
 
 <h3>Age Demographics</h3>
- <p>People 20-24 years ols buy more add-ins for games than any other age range. </p>
+ <p>People 20-24 years old buy more add-ins for games than any other age range. </p>
   <table>
       <tr>
         <th> Age Range   </th>
@@ -105,5 +105,81 @@
         <td> 40+ </td>
         <td> 12 </td>
         <td> 2.08%</td>
+      </tr>
+    </table>
+
+<h3>Age Purchasing Analysis</h3>
+ <p>People 20-24 years old buy more add-ins for games than any other age range. </p>
+  <table>
+      <tr>
+        <th> Age Range  </th>
+        <th> Purchase Count </th>
+        <th> Average Purchase Price </th>
+        <th> Total Purchase Value </th>
+        <th> Avg Total Purchase per Person </th>
+      </tr>
+      <tr>
+        <td> <10 </td>
+        <td> 23 </td>
+        <td> $3.35 </td>
+        <td> $77.13</td>
+        <td> $4.54 </td>
+      </tr>
+          <tr>
+        <td> 10-14 </td>
+        <td> 28 </td>
+        <td> $2.96 </td>
+        <td> $82.78</td>
+        <td> $3.76</td>
+      </tr>
+         </tr>
+          <tr>
+        <td> 15-19 </td>
+        <td> 136 </td>
+        <td> $3.04 </td>
+        <td> $412.89</td>
+        <td> $3.86</td>
+      </tr>
+                <tr>
+        <td> 20-24 </td>
+        <td> 365 </td>
+        <td> $3.05 </td>
+        <td> $1,114.06</td>
+        <td> $4.32</td>
+      </tr>
+                      <tr>
+        <td> 25-29 </td>
+        <td> 101 </td>
+        <td> $2.90 </td>
+        <td> $293.00</td>
+        <td> $3.81</td>
+    </tr>
+                      <tr>
+             <td> 30-34 </td>
+        <td> 73 </td>
+        <td> $2.93 </td>
+        <td> $214.00</td>
+        <td> $4.12</td>
+    </tr>
+                      <tr>
+        <td> 30-34 </td>
+        <td> 73 </td>
+        <td> $2.93 </td>
+        <td> $214.00</td>
+        <td> $4.12</td>
+    </tr>
+                      <tr>
+            <td> 35-39</td>
+        <td> 41 </td>
+        <td> $3.60 </td>
+        <td> $147.67</td>
+        <td> $4.76</td>
+      </tr>
+                            <tr>
+            <td> +40</td>
+        <td> 13 </td>
+        <td> $2.94</td>
+        <td> $38.24</td>
+        <td> $3.19</td>
       </tr>
     </table>
