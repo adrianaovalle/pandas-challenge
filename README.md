@@ -5,7 +5,7 @@
     <ul>
      <li>84% of the buying gamers are male. </li>
      <li>44.8% of gamers are between the ages of 20 to 24.</li>
-     <li>The mots popular and profitable add-in is Final Critic</li>
+     <li>The mots popular and profitable add-in is Final Critic.</li>
 </ul>
 
 <h3>Player Count</h3>
