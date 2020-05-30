@@ -223,3 +223,4 @@
         <td> $13.10</td>
       </tr> 
     </table>
+ <img src="https://images.pexels.com/photos/2526878/pexels-photo-2526878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width="30%"/>
