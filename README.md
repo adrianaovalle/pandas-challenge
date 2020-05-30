@@ -183,3 +183,43 @@
         <td> $3.19</td>
       </tr>
     </table>
+    
+    <h3>Top Spenders</h3>
+ <table>
+      <tr>
+        <th> Name  </th>
+        <th> Purchase Count </th>
+        <th> Average Purchase Price </th>
+        <th> Total Purchase Value </th>
+       </tr>
+      <tr>
+        <td> Lisosia93 </td>
+        <td> 5 </td>
+        <td> $3.79 </td>
+        <td> $18.96</td>
+      </tr>
+             <tr>
+        <td> Idastidru52 </td>
+        <td> 4 </td>
+        <td> $3.86 </td>
+        <td> $15.45</td>
+      </tr>  
+                 <tr>
+        <td> Chamjask73</td>
+        <td> 3 </td>
+        <td> $4.61 </td>
+        <td> $113.83</td>
+      </tr> 
+                     <tr>
+        <td> Iral74 </td>
+        <td> 4 </td>
+        <td> $3.40 </td>
+        <td> $13.62</td>
+      </tr> 
+                         <tr>
+        <td> Iskadarya95 </td>
+        <td> 3</td>
+        <td> $4.37 </td>
+        <td> $13.10</td>
+      </tr> 
+    </table>
