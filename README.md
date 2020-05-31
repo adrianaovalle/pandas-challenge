@@ -314,3 +314,15 @@
         <td> $34.80</td>
       </tr>
     </table>
+
+<h2>PyCitySchools</h2>
+    <p> This is the data analysis for a particular school district with the objective of making strategic decisions regarding future school budgets and priorities.Based on the district-wide standarized test results, the following are the main conclusions from the analysis:</p> 
+    <ul>
+     <li>The overall passing for students in the district is just 65%. Improvements most be made to increase the students passing reading and math.</li>
+     <li>The top schools are the charter type with overall passing above 90%, while the bottom schools are from the district with overall passing of about 53%.</li>
+     <li> Large Schools (2,000 to 5,000 students) have only 58% overall passing rate, while medium and small size schools jave overall passing rates of abou 90%.</li>
+</ul>
+
+ <p> Please see the results from <b>"PyCitySchools_starter.ipynb"</b> for complete tables with results.  </p> 
+
+
