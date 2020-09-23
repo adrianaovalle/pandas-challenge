@@ -1,4 +1,4 @@
-<h1>Pandas Challenge  Homework</h1>
+<h1>Pandas Challenge/h1>
 
 <h2>Heroes of Pymoli</h2>
     <p> This is the data analysis for a recent game Heroes of Pymoli. The gaming company would like to understand meaningful insights about purchasing history of add-ins to their free-to-play game. The following are the main conclusions from the analysis:</p> 
